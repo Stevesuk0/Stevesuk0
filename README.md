@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height="185" align="center"/>
 
 
-🌱 I’m currently learning `C++ with algorithm`.
+🌱 I’m currently learning `C++ algorithm` and `Golang`.
 
 👯 I'm a member of [Ansdoship]([Ansdoship](https://github.com/Ansdoship)) Studio.
 
