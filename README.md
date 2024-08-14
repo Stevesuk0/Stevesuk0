@@ -8,7 +8,7 @@
 
 👯 I'm a member of [Ansdoship]([Ansdoship](https://github.com/Ansdoship)) Studio.
 
-🔭 I'm a student in Zhengzhou 7th Middle Schools.
+🔭 I'm a student in Zhengzhou 7th Middle School.
 
 📫 I communicate in `Chinese`, and also `English`.
 
