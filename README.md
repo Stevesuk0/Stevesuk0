@@ -8,7 +8,7 @@ My name is "SteveUbuntu", and I'm 13 years old.
 
 🌱 I’m currently learning `C++ algorithms`, `Java`, `Kotlin`, and `Bukkit plugin APIs`.
 
-👯 I'm a member of [Ansdoship](https://github.com/Ansdoship) Studio.
+👯 I'm a moderator of [Ansdoship](https://github.com/Ansdoship) Studio.
 
 🔭 I'm a student at Zhengzhou 7th Middle School.
 
