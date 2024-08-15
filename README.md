@@ -1,21 +1,19 @@
-# Hi, You can call me "Steve".
+# Hi, you can call me "Steve".
+
 🎙️ About me
 
-My full name its "SteveUbuntu". I'm currently 13 years old.
+My name is "SteveUbuntu", and I'm 13 years old.
 
-<img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height="185" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&count_private=true&show_icons=true&theme=radical" width="400"/>
 
+🌱 I’m currently learning `C++ algorithms`, `Java`, `Kotlin`, and `Golang`.
 
-🌱 I’m learning `C++ algorithm` and `Golang`.
+👯 I'm a member of [Ansdoship](https://github.com/Ansdoship) Studio.
 
-👯 I'm a member of [Ansdoship]([Ansdoship](https://github.com/Ansdoship)) Studio.
+🔭 I'm a student at Zhengzhou 7th Middle School.
 
-🔭 I'm a student in Zhengzhou 7th Middle School.
+📫 I communicate in both `Chinese` and `English`.
 
-📫 I communicate in `Chinese`, and also `English`.
+💻 I'm currently programming in `Python`.
 
-💻 I'm programming in `Python` now.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevesuk0&layout=compact" height="120" align="center"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevesuk0&theme=radical" width="400"/>
