@@ -6,7 +6,7 @@ My name is "SteveUbuntu", and I'm 13 years old.
 
 <img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&count_private=true&show_icons=true&theme=radical" width="400"/>
 
-🌱 I’m currently learning `C++ algorithms`, `Java`, `Kotlin`, and `Bukkit plugin APIs`.
+🌱 I’m currently learning `C++ algorithms`, `Java`, and `Bukkit plugin APIs`.
 
 👯 I'm a moderator of [Ansdoship](https://github.com/Ansdoship) Studio.
 
