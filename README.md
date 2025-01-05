@@ -8,7 +8,7 @@ My name is "SteveUbuntu", and I'm 14 years old.
 
 🌱 I’m currently learning `C++ algorithms`, `Java`, and `Bukkit plugin APIs`.
 
-👯 I'm a moderator of [Ansdoship](https://github.com/Ansdoship) Studio.
+👯 I'm a founder of [Omega Labs](https://github.com/the-OmegaLabs).
 
 🔭 I'm a student at Zhengzhou 7th Middle School.
 
