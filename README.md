@@ -10,8 +10,6 @@ My name is "SteveUbuntu", and I'm 14 years old.
 
 👯 I'm a founder of [Omega Labs](https://github.com/the-OmegaLabs).
 
-🔭 I'm a student at Zhengzhou 7th Middle School.
-
 📫 I communicate in both `Chinese` and `English`.
 
 💻 I'm currently programming in `Python`.
