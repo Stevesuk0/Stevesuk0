@@ -13,6 +13,6 @@ My name is "Steve Ubuntu", and I'm 14 years old.
 
 📫 I communicate in `Chinese`, `Japanese` and `English`.
 
-💻 I'm currently programming in `Python`.
+💻 I'm currently programming in `Python`, `JavaScript`.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevesuk0&theme=radical" width="400"/>
