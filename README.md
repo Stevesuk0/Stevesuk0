@@ -18,6 +18,8 @@ My name is "Steve Ubuntu", and I'm 14 years old.
 
 💻 I'm currently programming in `Python`.
 
+[![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
+
 <img src="https://profile-counter.glitch.me/Stevesuk0/count.svg"/>
 
 [~Let counter +1~](https://github.com/Stevesuk0)
