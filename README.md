@@ -16,7 +16,7 @@ My name is "Steve Ubuntu", and I'm 14 years old.
 
 📫 I communicate in `Chinese`, `Japanese` and `English`.
 
-💻 I'm currently programming in `Python`.
+💻 I'm currently programming in `Python`, `Kotlin`.
 
 [![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
 
