@@ -3,12 +3,9 @@
 
 🎙️ About me
 
-My name is "Steve Ubuntu", and I'm 14 years old.
+My name is "Steve Ubuntu", and I'm 15 years old.
 
 <img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&count_private=true&show_icons=true&theme=radical" width="400"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stevesuk0&theme=tokyonight" width="400"/>
-
 
 🌱 I’m a backend programmer, focused on building and maintaining the server-side components.
 
