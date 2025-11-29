@@ -5,9 +5,7 @@
 
 My name is "Steve Ubuntu", and I'm 15 years old.
 
-<img src="https://github-readme-stats.vercel.app/api?username=stevesuk0&count_private=true&show_icons=true&theme=radical" width="400"/>
-
-🌱 I’m a backend programmer, focused on building and maintaining the server-side components.
+🌱 I’m working mostly as **backend**, focused on building and maintaining the server-side components.
 
 👯 I'm a founder of [Omega Labs](https://github.com/the-OmegaLabs).
 
@@ -15,8 +13,5 @@ My name is "Steve Ubuntu", and I'm 15 years old.
 
 💻 I'm currently programming in `Python`, `Kotlin` and `Golang`.
 
-[![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
 
-<img src="https://komarev.com/ghpvc/?username=Stevesuk0&color=ff69b4"/>
-
-[~Let counter +1~](https://github.com/Stevesuk0)
+<img src="https://komarev.com/ghpvc/?username=Stevesuk0&color=ff69b4"/> [![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
