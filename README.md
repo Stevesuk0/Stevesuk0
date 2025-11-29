@@ -1,5 +1,5 @@
 # Hi, you can call me "Steve".
-### ~Want to become an excellent programmer~
+### And I love to build some awesome stuff.
 
 🎙️ About me
 
