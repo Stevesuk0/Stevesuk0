@@ -3,15 +3,14 @@
 
 🎙️ About me
 
-My name is "Steve Ubuntu", and I'm 15 years old.
+I'm Steve "Stevesuk" Ubuntu, a 15-year-old backend developer.
 
-🌱 I’m working mostly as **backend**, focused on building and maintaining the server-side components.
+🌱 I specialize in building and maintaining robust server-side systems.
 
-👯 I'm a founder of [Omega Labs](https://github.com/the-OmegaLabs).
+👯 I lead innovation in software development and experimentation at [Omega Labs](https://github.com/the-OmegaLabs).
 
-📫 I communicate in `Chinese`, `Japanese` and `English`.
+📫 I use `Chinese`, `Japanese` and `English` for communication.
 
-💻 I'm currently programming in `Python`, `Kotlin` and `Golang`.
-
+💻 I preferred using Python and Golang for common works.
 
 <img src="https://komarev.com/ghpvc/?username=Stevesuk0&color=ff69b4"/> [![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
