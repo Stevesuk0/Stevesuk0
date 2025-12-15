@@ -14,42 +14,15 @@ I'm Steve "Stevesuk" Ubuntu, a 15-year-old backend developer.
 - 📫 Comfortable working in Chinese, Japanese, and English
 
 
-
 ## ✨ Skills & Tech Stack
 
 ### ⚙️ Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"
-       style="vertical-align: middle;"/>
-  <span style="margin-left: 8px; position: relative; top: 2px;">
-    General-purpose scripting and machine learning experiments
-  </span>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white"
-       style="vertical-align: middle;"/>
-  <span style="margin-left: 8px; position: relative; top: 2px;">
-    Backend work where performance matters
-  </span>
-</p>
-
-
-<p> 
-  <img src="https://img.shields.io/badge/Flutter-7F52FF?style=for-the-badge&logo=flutter&logoColor=white"        
-       style="vertical-align: middle;"/> 
-  <span style="margin-left: 8px; position: relative; top: 2px;"> 
-    Cross-platform UI for developer tools and modern applications
-    </span> 
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Zig-D7840D?style=for-the-badge&logo=zig&logoColor=white"
-       style="vertical-align: middle;"/>
-  <span style="margin-left: 8px; position: relative; top: 2px;">
-    Low-level systems programming with a focus on performance
-  </span>
+  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-7F52FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zig-D7840D?style=for-the-badge&logo=zig&logoColor=white"/>
 </p>
 
 
