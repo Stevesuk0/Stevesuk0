@@ -1,16 +1,72 @@
 # Hi, you can call me "Steve".
 ### And I love to build some awesome stuff.
 
-🎙️ About me
+[![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce) <img src="https://komarev.com/ghpvc/?username=Stevesuk0&color=ff69b4"/> 
+
+## 🎙️ About Me
 
 I'm Steve "Stevesuk" Ubuntu, a 15-year-old backend developer.
 
-🌱 I specialize in building and maintaining robust server-side systems.
+- 🌱 Building reliable server-side systems and practical machine learning pipelines
 
-👯 I lead innovation in software development and experimentation at [Omega Labs](https://github.com/the-OmegaLabs).
+- 👯 Leading software development experiments and engineering work at [Omega Labs](https://github.com/the-OmegaLabs).
 
-📫 I use `Chinese`, `Japanese` and `English` for communication.
+- 📫 Comfortable working in Chinese, Japanese, and English
 
-💻 I preferred using Python and Golang for common works.
 
-<img src="https://komarev.com/ghpvc/?username=Stevesuk0&color=ff69b4"/> [![wakatime](https://wakatime.com/badge/user/eaf1feeb-788c-4265-8ec7-a41771520cce.svg)](https://wakatime.com/@eaf1feeb-788c-4265-8ec7-a41771520cce)
+
+## ✨ Skills & Tech Stack
+
+### ⚙️ Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"
+       style="vertical-align: middle;"/>
+  <span style="margin-left: 8px; position: relative; top: 2px;">
+    General-purpose scripting and machine learning experiments
+  </span>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white"
+       style="vertical-align: middle;"/>
+  <span style="margin-left: 8px; position: relative; top: 2px;">
+    Backend work where performance matters
+  </span>
+</p>
+
+
+<p> 
+  <img src="https://img.shields.io/badge/Flutter-7F52FF?style=for-the-badge&logo=flutter&logoColor=white"        
+       style="vertical-align: middle;"/> 
+  <span style="margin-left: 8px; position: relative; top: 2px;"> 
+    Cross-platform UI for developer tools and modern applications
+    </span> 
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Zig-D7840D?style=for-the-badge&logo=zig&logoColor=white"
+       style="vertical-align: middle;"/>
+  <span style="margin-left: 8px; position: relative; top: 2px;">
+    Low-level systems programming with a focus on performance
+  </span>
+</p>
+
+
+### 🤖 AI & Machine Learning
+
+- 👁️ **Computer Vision** 
+
+    YOLO-style object detection with deployment and inference optimization
+
+- ⚡ **Edge Inference**
+   
+    Lightweight inference on CPU and embedded devices
+
+- 🔊 **Speech Systems** 
+
+    Text-to-Speech pipelines for real-time and streaming scenarios
+
+- 🧠 **Engineering Focus**
+   
+    Efficiency, inference speed, and real-world constraints
