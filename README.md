@@ -30,18 +30,10 @@ I'm Steve "Stevesuk" Ubuntu, a 15-year-old backend developer.
 
 ### 🤖 AI & Machine Learning
 
-- 👁️ **Computer Vision** 
+- 👁️ **Computer Vision**: Object detection with deployment and inference 
 
-    YOLO-style object detection with deployment and inference optimization
+- 🔊 **Speech Systems**: Text-to-Speech pipelines for real-time and streaming scenarios
 
-- ⚡ **Edge Inference**
-   
-    Lightweight inference on CPU and embedded devices
+- ⚡ **Edge Inference**: Lightweight inference optimization for CPU and embedded devices
 
-- 🔊 **Speech Systems** 
-
-    Text-to-Speech pipelines for real-time and streaming scenarios
-
-- 🧠 **Engineering Focus**
-   
-    Efficiency, inference speed, and real-world constraints
+- 🧠 **Engineering Focus**: Efficiency, inference speed, and real-world constraints
