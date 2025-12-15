@@ -5,7 +5,7 @@
 
 ## 🎙️ About Me
 
-I'm Steve "Stevesuk" Ubuntu, a 15-year-old backend developer.
+I'm Aoi "Stevesuk" Yukimura, a 15-year-old backend developer.
 
 - 🌱 Building reliable server-side systems and practical machine learning pipelines
 
