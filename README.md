@@ -23,7 +23,7 @@ I'm Aoi "Stevesuk" Yukimura, a 15-year-old backend developer.
   <img src="https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-7F52FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LibTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zig-D7840D?style=for-the-badge&logo=zig&logoColor=white"/>
 </p>
 
