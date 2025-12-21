@@ -5,7 +5,7 @@
 
 ## 🎙️ About Me
 
-I'm Aoi "Stevesuk" Yukimura, a 15-year-old backend developer.
+I'm Aoi "Stevesuk", a 15-year-old backend developer.
 
 - 🌱 Building reliable server-side systems and practical machine learning pipelines
 
@@ -30,10 +30,6 @@ I'm Aoi "Stevesuk" Yukimura, a 15-year-old backend developer.
 
 ### 🤖 AI & Machine Learning
 
-- 👁️ **Computer Vision**: Object detection with deployment and inference 
-
-- 🔊 **Speech Systems**: Text-to-Speech pipelines for real-time and streaming scenarios
-
-- ⚡ **Edge Inference**: Lightweight inference optimization for CPU and embedded devices
-
-- 🧠 **Engineering Focus**: Efficiency, inference speed, and real-world constraints
+| 👁️ Computer Vision | 🔊 TTS Systems |
+|---|---|
+| ⚡ **Edge Inference** | 🧠 **Engineering Focus** |
