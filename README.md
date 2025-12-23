@@ -7,11 +7,11 @@
 
 I'm Aoi "Stevesuk", a 15-year-old backend developer.
 
-- Building reliable server-side systems and practical machine learning pipelines
+- Server-side systems & ML pipelines
 
-- Leading software development experiments and engineering work at [Omega Labs](https://github.com/the-OmegaLabs).
+- Engineering lead at [Omega Labs](https://github.com/the-OmegaLabs).
 
-- Comfortable working in Chinese, Japanese, and English
+- Spoken: Chinese / Japanese / English
 
 
 ## ✨ Skills & Tech Stack
